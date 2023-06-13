@@ -1,7 +1,13 @@
+/*login*/
 .container{
     margin-top: 130px;
 }
 .card-formulario{
     border: solid 10px black;
     padding: 12px;
+}
+
+/*registro*/
+.container1{
+    margin-top: 75px;
 }
